@@ -5,6 +5,7 @@
 
       <hero />
       <cards />
+      <plan />
     </div>
   </body>
 </template>
